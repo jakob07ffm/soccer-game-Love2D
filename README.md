@@ -44,3 +44,4 @@
 ## Customization
 - Modify the `winningScore`, `paddleWidth`, `paddleHeight`, and other game parameters in the `love.load()` function to customize gameplay.
 - Adjust AI difficulty by modifying the `rightPaddle.difficulty` variable in the `love.load()` function.
+![](soccer.JPG)
